@@ -32,3 +32,6 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# ignore secrets
+app/src/main/java/com/jeffrey/finalwork/Secrets.java
