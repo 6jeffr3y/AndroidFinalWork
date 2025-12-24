@@ -6,7 +6,7 @@ Secrets.java
 package com.jeffrey.finalwork;
 
 public final class Secrets {
-    public static final String SECRET_ID = "“
+    public static final String SECRET_ID = "";
     public static final String SECRET_KEY = "";
     public static final String REGION = "ap-guangzhou"; // 地区
 
